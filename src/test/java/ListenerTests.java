@@ -8,7 +8,7 @@ import static com.codeborne.selenide.Selenide.*;
 import static org.openqa.selenium.By.linkText;
 
 
-public class ListenerTests extends tests.TestBase {
+public class ListenerTests extends TestBase {
 
     @Test
     public void listenerTest() {
